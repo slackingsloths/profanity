@@ -1,5 +1,0 @@
-# Makefile artifacts
-*.o
-*.so
-cache-opencl.*
-bin
